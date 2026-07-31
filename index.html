@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0">
+
+    <title>The August Reliquary</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link rel="preconnect"
+          href="https://fonts.gstatic.com"
+          crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,500&family=UnifrakturMaguntia&display=swap"
+          rel="stylesheet">
+
+    <link
+        rel="stylesheet"
+        href="style.css">
+
+</head>
+
+<body>
+
+<div class="background">
+
+    <div class="fog fog-1"></div>
+    <div class="fog fog-2"></div>
+
+    <div class="embers" id="embers"></div>
+
+    <div class="candlelight"></div>
+
+    <div class="vignette"></div>
+
+</div>
+
+<div class="depth-vignette" aria-hidden="true"></div>
+
+
+<main class="calendar">
+
+    <header class="hero">
+
+        <div class="rose-window" aria-hidden="true">
+            <svg viewBox="0 0 200 200">
+                <circle class="rw-ring" cx="100" cy="100" r="94"/>
+                <circle class="rw-ring rw-ring-2" cx="100" cy="100" r="72"/>
+                <g class="rw-petals">
+                    <path class="rw-petal" d="M100 100 L100 12 A88 88 0 0 1 162 38 Z"/>
+                    <path class="rw-petal" d="M100 100 L162 38 A88 88 0 0 1 188 100 Z"/>
+                    <path class="rw-petal" d="M100 100 L188 100 A88 88 0 0 1 162 162 Z"/>
+                    <path class="rw-petal" d="M100 100 L162 162 A88 88 0 0 1 100 188 Z"/>
+                    <path class="rw-petal" d="M100 100 L100 188 A88 88 0 0 1 38 162 Z"/>
+                    <path class="rw-petal" d="M100 100 L38 162 A88 88 0 0 1 12 100 Z"/>
+                    <path class="rw-petal" d="M100 100 L12 100 A88 88 0 0 1 38 38 Z"/>
+                    <path class="rw-petal" d="M100 100 L38 38 A88 88 0 0 1 100 12 Z"/>
+                </g>
+                <circle class="rw-core" cx="100" cy="100" r="20"/>
+            </svg>
+        </div>
+
+        <p class="hero-eyebrow">Vigil of the Faithful</p>
+
+        <div class="hero-decoration"></div>
+
+        <h1>
+
+            THE AUGUST
+
+            <span>RELIQUARY</span>
+
+        </h1>
+
+        <p>
+
+            Thirty-One Relics Await
+
+        </p>
+
+    </header>
+
+
+
+    <section
+            id="calendar"
+            class="calendar-grid">
+
+        <!-- script.js -->
+
+    </section>
+
+
+</main>
+
+
+<div
+        id="modal"
+        class="modal hidden">
+
+    <div class="modal-window">
+
+        <button
+                id="close"
+                aria-label="Close">
+
+            ×
+
+        </button>
+
+        <div class="modal-frame">
+            <div
+                    id="modalImage"
+                    class="modal-image">
+
+            </div>
+        </div>
+
+        <div class="modal-divider" aria-hidden="true"></div>
+
+        <h2 id="modalTitle">
+
+        </h2>
+
+        <p id="modalText">
+
+        </p>
+
+        <audio id="modalAudio" loop></audio>
+
+    </div>
+
+</div>
+
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
