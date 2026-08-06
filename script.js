@@ -33,8 +33,8 @@ const DAY_CONFIG = {
     6:  { title:"Шестое число августа",  text:"Очень хотел бы обнять тебя так, как котик обнимает эту банку монстра, мяв",  image:"https://i.pinimg.com/736x/70/ea/fe/70eafe62db4a6c39c8d1d81d73e98afd.jpg",  music:null },
     7:  { title:"Седьмое число августа",  text:"Круто было бы сидеть сейчас где-нибудь на лавочке, или на крыше, в общем вайбовом местечке и рассказывать всякие искренние штучки...",  image:"https://i.pinimg.com/736x/70/be/0c/70be0c8aba1703319f6da98878c3c405.jpg",  music:null },
 
-    8:  { title:"Восьмое число августа",  text:"Description for day 8.",  image:"assets/images/8.jpg",  music:null },
-    9:  { title:"Девятое число августа",  text:"Description for day 9.",  image:"assets/images/9.jpg",  music:null },
+    8:  { title:"Восьмое число августа",  text:"Надеюсь у тебя все не так плохо, я тебя люблю очень и скучаю",  image:"https://i.pinimg.com/1200x/51/5d/ca/515dcacf66f4856d15c201296acd3c64.jpg",  music:null },
+    9:  { title:"Девятое число августа",  text:"Котик соскучився, мяу, обнимашек хочу",  image:"https://i.pinimg.com/736x/f4/b1/b5/f4b1b50ad737868012168d70c068b193.jpg",  music:null },
     10: { title:"Десятое число августа", text:"Description for day 10.", image:"assets/images/10.jpg", music:null },
     11: { title:"Одиннадцатое число августа", text:"Description for day 11.", image:"assets/images/11.jpg", music:null },
     12: { title:"Двенадцатое число августа", text:"Description for day 12.", image:"assets/images/12.jpg", music:null },
