@@ -38,9 +38,9 @@ const DAY_CONFIG = {
     10: { title:"Десятое число августа", text:"Хоть бы у тя все было хорошо (⁰ ◕〜◕ ⁰)", image:"https://i.pinimg.com/736x/f3/5e/75/f35e75382882924521c064b439492e75.jpg", music:null },
     11: { title:"Одиннадцатое число августа", text:"Я соскучился, ужас как сильно соскучился", image:"https://i.pinimg.com/736x/56/cb/f8/56cbf883b6928c2852417f7f3e8141ba.jpg", music:null },
     12: { title:"Двенадцатое число августа", text:"Мяу мяу? мяу мяууу мяу..", image:"https://i.pinimg.com/736x/b1/2d/0c/b12d0c39a64e7b337a80baef5758fa39.jpg", music:null },
-    13: { title:"Тринадцатое число августа", text:"Description for day 13.", image:"assets/images/13.jpg", music:null },
-    14: { title:"Четырнадцатое число августа", text:"Description for day 14.", image:"assets/images/14.jpg", music:null },
-    15: { title:"Пятнадцатое число августа", text:"Description for day 15.", image:"assets/images/15.jpg", music:null },
+    13: { title:"Тринадцатое число августа", text:"YНинаю, смотреш ты или неть, но я надеюсь те все нрав :3", image:"https://i.pinimg.com/736x/49/f7/7c/49f77c4999d23f9084026ec65f73c0e9.jpg", music:null },
+    14: { title:"Четырнадцатое число августа", text:"Мне тебя очень не хватает", image:"https://i.pinimg.com/736x/a0/27/62/a0276281ac5c04ada2b33c789d54bd96.jpg", music:null },
+    15: { title:"Пятнадцатое число августа", text:"Напомимяу, я тебя очень мяулюблю!!", image:"https://i.pinimg.com/736x/b2/04/10/b20410aa62ac4c26c28d7bc69bfc713e.jpg", music:null },
 
     16: { title:"Шестнадцатое число августа", text:"Description for day 16.", image:"assets/images/16.jpg", music:null },
     17: { title:"Семнадцатое число августа", text:"Description for day 17.", image:"assets/images/17.jpg", music:null },
