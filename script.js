@@ -43,7 +43,7 @@ const DAY_CONFIG = {
     15: { title:"Пятнадцатое число августа", text:"Напомимяу, я тебя очень мяулюблю!!", image:"https://i.pinimg.com/736x/b2/04/10/b20410aa62ac4c26c28d7bc69bfc713e.jpg", music:null },
 
     16: { title:"Шестнадцатое число августа", text:"ОЧЕНЬ ОЧЕНЬ ОЧЕНЬ СКУЧАЮ!!!", image:"https://i.pinimg.com/1200x/79/76/f6/7976f60a2d9eee3fa8410debb83d14ea.jpg", music:null },
-    17: { title:"Семнадцатое число августа", text:"Description for day 17.", image:"assets/images/17.jpg", music:null },
+    17: { title:"Семнадцатое число августа", text:"мяу", image:"https://i.pinimg.com/1200x/ba/6f/25/ba6f25ce056572ac574400cead586d8c.jpg", music:null },
     18: { title:"Восемнадцатое число августа", text:"Description for day 18.", image:"assets/images/18.jpg", music:null },
     19: { title:"Девятнадцатое число августа", text:"Description for day 19.", image:"assets/images/19.jpg", music:null },
     20: { title:"Двадцатое число августа", text:"Description for day 20.", image:"assets/images/20.jpg", music:null },
