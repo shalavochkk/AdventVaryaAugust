@@ -47,9 +47,9 @@ const DAY_CONFIG = {
     18: { title:"Восемнадцатое число августа", text:"эм.. ну, я как бы, люблю тебя", image:"https://i.pinimg.com/1200x/28/67/ab/2867abf48012a829bbb1d845a3bee86e.jpg", music:null },
     19: { title:"Девятнадцатое число августа", text:"надеюсь у тебя все как можно скорее начнет налаживаса, накладываться, бля, ты меня понив", image:"https://i.pinimg.com/1200x/46/4c/c8/464cc845c90c3c2b27036dc8c72824a6.jpg", music:null },
     20: { title:"Двадцатое число августа", text:"мяумяу мяу мяу, котик любит тебя мяу!!", image:"https://i.pinimg.com/736x/78/60/5e/78605e34e06f73ca8e277767238f2797.jpg", music:null },
-    21: { title:"Двадцатое первое число августа", text:"Description for day 21.", image:"assets/images/21.jpg", music:null },
-    22: { title:"Двадцатое второе число августа", text:"Description for day 22.", image:"assets/images/22.jpg", music:null },
-    23: { title:"Двадцатое третье число августа", text:"Description for day 23.", image:"assets/images/23.jpg", music:null },
+    21: { title:"Двадцатое первое число августа", text:"я тебя к слову ну чертовски сильно люблю!", image:"https://i.pinimg.com/736x/90/a4/78/90a4782e6060ac764b327890fdf33b13.jpg", music:null },
+    22: { title:"Двадцатое второе число августа", text:"очень скучаю..", image:"https://i.pinimg.com/1200x/8a/08/e6/8a08e6b41b6a75bf3886ba48d50cb1c5.jpg", music:null },
+    23: { title:"Двадцатое третье число августа", text:"мяув, завтра кстати панедельник прикинь, люблю тя кстати прикинь, сильно очень сильно пиздец как ужас как сильноооо прикииинь!!!!!!!", image:"https://i.pinimg.com/736x/8d/06/a0/8d06a0c81a3157127b38d2ef58993ac7.jpg", music:null },
     24: { title:"Двадцатое четвертое число августа", text:"Description for day 24.", image:"assets/images/24.jpg", music:null },
     
     25: { title:"Двадцатое пятое число августа", text:"Description for day 25.", image:"assets/images/25.jpg", music:null },
